@@ -1,4 +1,5 @@
 # pr-stats
+original Repository | [https://github.com/naver/pr-stats]
 
 🌏 한국어 | [**English**](README.en.md)
 
